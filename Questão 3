@@ -1,0 +1,4 @@
+setor1 = int(input("quantidade produzida setor 1 "))
+setor2 = int(input ("quantidade produzida setor 2 "))
+totaldossetores = setor1 + setor2 
+print ("o total produzido pelos 2 setores é de , " , totaldossetores)
