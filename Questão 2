@@ -1,0 +1,2 @@
+nome= input ("nome do estudante :")
+print ("seja bem vindo, " ,  nome )
