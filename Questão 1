@@ -1,0 +1,3 @@
+livros_lidos = input("quantos livros foram lidos pela turma?  ")
+
+print("foram lidos, {livros_lidos}!")
