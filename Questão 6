@@ -1,0 +1,5 @@
+codigo = int(input("digite o codigo do equipamento "))
+if codigo % 2 == 0:
+   print("O codigo e par.")
+else:
+   print("O codigo e impar.")
