@@ -1,0 +1,11 @@
+livros = []
+
+for i in range(3):
+    livro = input("Digite o titulo do livro:
+")
+    livros.append(livro)
+
+print("Livros cadastrados:")
+
+for livro in livros:
+    print(livro)
